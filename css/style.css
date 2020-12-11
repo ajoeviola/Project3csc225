@@ -1,0 +1,35 @@
+.cursor-pointer {
+    cursor:pointer;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+.photo {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.bg-console {
+    background-image:url("../images/coverimage.jpg");
+    background-size: cover;
+    height: 75vh;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.name {
+   font-size: 25px;
+}
+
+.info {
+    font-size: 35px;
+}
